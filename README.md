@@ -1,4 +1,3 @@
-# Speller
-## Cara Penggunaan:
+# Cara Penggunaan Speller:
 Format penggunaan = [nama program] [dictionary] [text]
-  Contoh = ./speller dictionary input.txt
+Contoh = ./speller dictionary input.txt
