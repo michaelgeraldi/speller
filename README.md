@@ -1,3 +1,3 @@
-# Cara Penggunaan Speller:
-Format penggunaan = [nama program] [dictionary] [text]
-Contoh = ./speller dictionary input.txt
+### How to use Speller:
+Usage = speller [dictionary] [text]
+Example = ./speller dictionary input.txt
